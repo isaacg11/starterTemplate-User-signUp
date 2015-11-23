@@ -1,0 +1,10 @@
+{
+  "appId": "sdkusersignup",
+  "apiKey": "0d12f56604cb873d52637dcf4455ac6ed90076c5cbfcf1d946d5b0b31143e7e4",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
