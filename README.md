@@ -1,5 +1,5 @@
 # starterTemplate-User-signUp
-a starter template for signing up users with the Stamplay SDK
+a Javascript starter template for signing up users with the Stamplay SDK
 
 **CLONING: When cloning this repo, you must switch out the appId with your own to make it work.**
 
